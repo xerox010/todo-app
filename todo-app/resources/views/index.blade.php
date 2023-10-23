@@ -6,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>first one</h1>
+    <h1>
+        first page for the testing purpose
+    </h1>
+    <a href="/todoapp">To-do app</a>
 </body>
 </html>
