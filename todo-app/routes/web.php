@@ -21,6 +21,6 @@ Route::get('/todoapp', function () {
     return view('todoapp');
 });
 
-Route::get('/contact', function () {
+Route::get('/Contact', function () {
     return view('Contact');
 });

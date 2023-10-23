@@ -15,6 +15,7 @@
         <input type="submit" value="Add">
         </div>
         <a href="/">Home</a>
+        <a href="/Contact">Contact</a>
     </form>
 </body>
 </html>
