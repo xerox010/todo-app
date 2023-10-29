@@ -14,7 +14,7 @@
         <input type="text" placeholder="Enter a to-do list" required>
         <input type="submit" value="Add">
         </div>
-        <a href="/">Home</a>
+        <a href="{{ route("home.index") }}">Home</a>
         <a href="/Contact">Contact</a>
     </form>
 </body>
