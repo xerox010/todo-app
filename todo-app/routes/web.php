@@ -18,9 +18,12 @@ Route::get('/', function () {
 });
 
 Route::get('/todoapp', function () {
-    return view('todoapp');
+    return view('todoapp.index');
 });
 
 Route::get('/Contact', function () {
     return view('Contact');
+});
+Route::get('/blog', function () {
+    return view('blog.index');
 });

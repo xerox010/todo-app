@@ -10,5 +10,6 @@
         first page for the testing purpose
     </h1>
     <a href="/todoapp">To-do app</a>
+    <a href="/blog">blog</a>
 </body>
 </html>
